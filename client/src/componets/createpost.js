@@ -196,6 +196,7 @@ const Createpost = () => {
 };
 
 export default Createpost;*/
+// actual code
 
 import { useState,useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
