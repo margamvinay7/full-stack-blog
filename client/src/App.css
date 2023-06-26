@@ -1,0 +1,166 @@
+/* 
+ .navbar{
+  box-sizing: border-box;
+  display: flex;
+  background-color:lightblue;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  height: 50px;
+  padding: 20px;
+  
+}
+.dnavbar {
+  width: 120px;
+  display: flex;
+  justify-content: space-between;
+}
+.main{
+  display: flex;
+  justify-content: center;
+}
+.container{
+  border-radius: 20px;
+  background:radial-gradient(closest-side,rgba(190, 190, 51, 0.174),rgba(10, 65, 106, 0.579));
+  box-sizing: border-box;
+  margin: 5px;
+  width: 50%;
+  min-height:90vh; 
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  
+  
+}
+.authhead{
+  background-color: rgb(183, 120, 242);
+ 
+  border-radius: 20px;
+  width: 100px;
+  display: flex;
+  border: 50px;
+  justify-content: center;
+  align-items: center;
+ 
+}
+.btn{
+  border-radius: 10px;
+  background-color: rgb(120, 120, 224);
+  
+}
+
+.auth{
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+  
+ 
+
+.authinput{
+  width: 90%;
+  margin: 5px;
+  height:20px;
+  border-radius: 10px;
+
+
+}
+.authinput:hover{
+ cursor: pointer;
+ border-color: lightcyan;
+ background-color:lightcyan;
+ 
+}
+.footer{
+ 
+ display: flex;
+  background-color: aqua;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 100%;
+  position: sticky;
+  bottom: 0px;
+  
+}
+ .new .newfoot{
+  display: flex;
+  background-color: aqua;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 100%;
+  position: sticky;
+  bottom: 0px;
+
+}
+.createPost{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 30px;
+  padding: 5px;
+}
+.createField{
+  margin: 10px;
+  width: 40%;
+  
+
+
+
+}
+.createField:hover{
+  cursor: pointer;
+  border-radius: 10px;
+
+}
+.postCard{
+  height: 200px;
+  margin:5px;
+  padding: 5px;
+  border: 1px;
+  border-style: solid;
+  position: relative;
+
+}
+.btn{
+  display: flex;
+  width: 40%;
+  margin: 2px;
+  padding: 10px;
+  position: relative;
+  bottom:0px;
+ 
+ background-color: rgba(255, 255, 255, 0);
+ 
+  justify-content:space-around;
+}
+.deletebtn{
+  cursor: pointer;
+ border: 0px;
+ border-radius: 20px;
+ background-color: rgba(19, 79, 168, 0.66);
+  
+  bottom: 5px;
+}
+.updatebtn{
+  cursor: pointer;
+  border: 0px;
+  border-radius: 20px;
+  background-color:  rgba(19, 79, 168, 0.66);
+  
+  bottom: 5px;
+  
+}
+.createbtn{
+  cursor: pointer;
+  border: 0px;
+  border-radius: 20px;
+  background-color:  rgba(19, 79, 168, 0.66);
+}
+  */
