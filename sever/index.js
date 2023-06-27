@@ -23,7 +23,7 @@ app.get('/',(req,res)=>{
 })
 
 
-CONNECTION_URL='mongodb+srv://margamvinay:vinay756@vinay.tch0oea.mongodb.net/?retryWrites=true&w=majority'
+CONNECTION_URL='mongodb+srv://margamvinay:password@vinay.tch0oea.mongodb.net/?retryWrites=true&w=majority'
 mongoose.connect(CONNECTION_URL,{useUnifiedTopology : true,useNewUrlParser: true }).then(
     app.listen(port,()=>{
         console.log("db is connected")
